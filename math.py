@@ -8,7 +8,7 @@ def sub(a, b):
 
 # mul implmentation
 def mul(a, b):
-    pass
+    return a*b     #mul from local repo
 
 # div implmentation
 def div(a, b):
