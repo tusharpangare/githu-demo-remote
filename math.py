@@ -4,7 +4,7 @@ def add(a, b):
 
 # sub implmentation
 def sub(a, b):
-    pass
+    return a-b   #bug456
 
 # mul implmentation
 def mul(a, b):
