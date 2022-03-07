@@ -4,7 +4,7 @@ def add(a, b):
 
 # sub implmentation
 def sub(a, b):
-    pass
+    return x-y    #from remote repo
 
 # mul implmentation
 def mul(a, b):
