@@ -1,6 +1,6 @@
 # add implmentation
 def add(a, b):
-    pass
+    return a+b
 
 # sub implmentation
 def sub(a, b):
